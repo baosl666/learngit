@@ -1,5 +1,5 @@
 Git is a distributed control sysrem.
-Git is free software distributed under the GPL. 
+Git is a free software distributed under the GPL. 
 Git has a mutable index called stage.
 i have myself github reposity.
 delet
